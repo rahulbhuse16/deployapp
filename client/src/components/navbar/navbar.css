@@ -1,0 +1,36 @@
+.logout {
+    outline: none;
+    border: 0;
+    background-color: #0f3460;
+    border-radius: 10px;
+  }
+  
+  .navbar-items {
+    display: flex !important;
+    justify-content: space-evenly !important;
+  }
+  
+  .navbar-nav {
+    justify-content: space-around;
+  }
+  
+  .nav-item {
+    margin: 0 8px;
+  }
+  
+  .logout:hover {
+    background-color: #5f6f94;
+    color: white !important;
+  }
+  
+  .items {
+    margin-left: 25%;
+  }
+  
+  a {
+    color: white !important;
+  }
+  
+  .navbar {
+    background-color: #25316d;
+  }

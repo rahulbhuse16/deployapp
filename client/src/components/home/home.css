@@ -1,0 +1,15 @@
+.home_container {
+    margin: 10% 0;
+    text-align: center;
+    width: 30%;
+  }
+  
+  .home_p {
+    color: red;
+    margin-top: 80px !important;
+    font-weight: bold;
+  }
+  
+  .home_h1 {
+    margin-bottom: 50px;
+  }
